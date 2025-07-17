@@ -1,4 +1,0 @@
-alx_travel_app
-celery
-amqp
-django-celery-results
